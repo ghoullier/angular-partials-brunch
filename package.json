@@ -1,6 +1,6 @@
 {
   "name": "angular-partials-brunch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Manage AngularJS partials with Brunch",
   "main": "index.js",
   "scripts": {
