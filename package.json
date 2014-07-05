@@ -1,0 +1,25 @@
+{
+  "name": "angular-partials-brunch",
+  "version": "0.0.0",
+  "description": "Manage AngularJS partials with Brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghoullier/angular-partials-brunch.git"
+  },
+  "keywords": [
+    "brunch",
+    "angular",
+    "template",
+    "partials"
+  ],
+  "author": "Grégory Houllier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghoullier/angular-partials-brunch/issues"
+  },
+  "homepage": "https://github.com/ghoullier/angular-partials-brunch"
+}
