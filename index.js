@@ -8,8 +8,8 @@ AngularPartialsPlugin.prototype.type = 'template';
 
 AngularPartialsPlugin.prototype.extension = 'html';
 
-AngularPartialsPlugin.prototype.compile = function(params, callback) {
-
+AngularPartialsPlugin.prototype.compile = function(data, path, callback) {
+  console.log('AngularPartialsPlugin::compile', arguments);
 };
 
 module.exports = AngularPartialsPlugin;
